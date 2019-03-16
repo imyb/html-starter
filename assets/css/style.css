@@ -1,8 +1,16 @@
 @charset "utf-8";
 
-@import './plugins.css';
-@import './base.css';
-@import './component.css';
-@import './layout.css';
-@import './page.css';
-@import './page_home.css';
+/* vendor */
+@import 'vendor.css';
+
+/* base */
+@import 'base.css';
+
+/* component */
+@import 'component.css';
+
+/* layout */
+@import 'layout.css';
+
+/* page */
+@import 'page.css';
